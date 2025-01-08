@@ -33,19 +33,12 @@ Welcome to my GitHub profile! I'm a **Software Developer Engineer** with experti
 
 ### Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Nodejs](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 
 ### Tools & Frameworks  
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-
----
-
-## 📈 GitHub Stats  
-
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AayushMaurya&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushMaurya&layout=compact&theme=radical)  
 
 ---
 
