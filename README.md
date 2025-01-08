@@ -42,6 +42,27 @@ Welcome to my GitHub profile! I'm a **Software Developer Engineer** with experti
 
 ---
 
+## 📜 Certificates  
+
+- [Java - Spring Boot (Udemy)](https://www.udemy.com/certificate/UC-5bed8ab4-3a6f-43ea-afef-e38c482c5cf9/)  
+- [Nodejs - Complete Guide (Udemy)](https://www.udemy.com/certificate/UC-2abfc32a-fdba-4bba-b0f8-0365246cbf5e/)  
+
+---
+
+## 🏅 GeeksforGeeks Badge  
+
+![GeeksforGeeks Badge](https://media.geeksforgeeks.org/badges_dir/4ff93d1732102f5f52a67705a240e6a0fbe1fc396eaf8bea4e1c9d5d1dcdc325.png)  
+[View My GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/aayush10m/)  
+
+---
+
+## 📄 Published Articles  
+
+- [Hosting Your Scripts from GitHub to jsDelivr: A Step-by-Step Guide](https://www.geeksforgeeks.org/hosting-your-scripts-from-github-to-jsdelivr-a-step-by-step-guide)  
+- [Zoho Interview Experience for SDE (On-Campus 2023)](https://www.geeksforgeeks.org/zoho-interview-experience-for-sde-on-campus-2023)  
+
+---
+
 ## 🌱 What I'm Learning  
 
 - Advanced **Spring**
