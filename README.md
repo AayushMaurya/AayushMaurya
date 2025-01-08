@@ -51,7 +51,8 @@ Welcome to my GitHub profile! I'm a **Software Developer Engineer** with experti
 
 ## 🏅 GeeksforGeeks Badge  
 
-![GeeksforGeeks Badge](https://raw.githubusercontent.com/AayushMaurya/AayushMaurya/main/github-badge.png)  
+<img src="https://raw.githubusercontent.com/AayushMaurya/AayushMaurya/main/gfg-badge.png" alt="GeeksforGeeks Badge" width="150"/>  
+
 [View My GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/aayush10m/)  
 
 ---
